@@ -30,3 +30,40 @@
 <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,bootstrap,mysql,git,github,vscode" />
 
 </p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-rajput-09&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shivam-rajput-09&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-rajput-09&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:shivamkumar100406@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
