@@ -19,7 +19,6 @@ B.Tech Computer Science Student | Java Developer | DSA Enthusiast
 🚀 Building projects every week • 📚 Solving DSA • 🌱 Learning Full Stack Development
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -28,7 +27,7 @@ B.Tech Computer Science Student | Java Developer | DSA Enthusiast
 - 🌱 Currently learning Java, DSA, and Web Development
 - 🚀 Building projects to improve my skills
 - 📫 Reach me at: **shivamkumar100406@gmail.com**
-- 
+  
 
 ## 🌱 Currently Learning
 
@@ -41,11 +40,8 @@ B.Tech Computer Science Student | Java Developer | DSA Enthusiast
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,bootstrap,mysql,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,bootstrap,mysql,git,github,vscode&theme=dark" />
 </p>
----
 
 ## 📊 GitHub Analytics
 
@@ -67,6 +63,58 @@ B.Tech Computer Science Student | Java Developer | DSA Enthusiast
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Shivam-rajput-09&theme=github-dark&hide_border=true"/>
 </p>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 E-Commerce Website
+
+Responsive shopping website built using HTML, CSS and JavaScript.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+
+### ⏱️ Pomodoro Timer
+
+A productivity timer with a clean and responsive interface.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🌦️ Weather App
+
+Real-time weather application using OpenWeather API.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+</td>
+
+<td>
+
+### 🤖 Line Follower Robot
+
+Arduino-based autonomous robot using IR sensors.
+
+**Tech Stack:** Arduino • C++
+
+</td>
+
+</tr>
+
+</table>
 
 ## 🌐 Connect With Me
 
