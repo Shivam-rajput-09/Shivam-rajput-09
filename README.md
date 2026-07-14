@@ -22,6 +22,15 @@
 - 🌱 Currently learning Java, DSA, and Web Development
 - 🚀 Building projects to improve my skills
 - 📫 Reach me at: **shivamkumar100406@gmail.com**
+- 
+
+## 🌱 Currently Learning
+
+- ☕ Java & Object-Oriented Programming
+- 📚 Data Structures & Algorithms
+- 🌐 Full Stack Web Development
+- ⚡ Git & GitHub
+- 🚀 Problem Solving on LeetCode
 
 ## 🛠️ Tech Stack
 
@@ -32,38 +41,43 @@
 </p>
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shivam-rajput-09&show_icons=true&theme=github_dark&hide_border=true"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-rajput-09&layout=compact&theme=github_dark&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivam-rajput-09&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Shivam-rajput-09&theme=github-dark&hide_border=true"/>
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivam-rajput-09&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivam-rajput-09&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="mailto:shivamkumar100406@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:shivamkumar100406@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="https://www.linkedin.com/in/shivam-kumar-867967331/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://leetcode.com/u/shivcode4lyf/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shivam-rajput-09&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
