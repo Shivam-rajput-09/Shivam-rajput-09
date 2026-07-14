@@ -49,12 +49,13 @@ B.Tech Computer Science Student | Java Developer | DSA Enthusiast
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam-rajput-09&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shivam-rajput-09&show_icons=true&theme=github_dark&hide_border=true"/>
 
 </td>
+
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-rajput-09&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shivam-rajput-09&layout=compact&theme=github_dark&hide_border=true"/>
 
 </td>
 </tr>
