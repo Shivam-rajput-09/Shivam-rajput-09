@@ -40,7 +40,7 @@ B.Tech Computer Science Student | Java Developer | DSA Enthusiast
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,bootstrap,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,bootstrap,mysql,git,github,vscode&perline=5" />
 </p>
 
 ## 📊 GitHub Analytics
@@ -74,7 +74,7 @@ B.Tech Computer Science Student | Java Developer | DSA Enthusiast
 
 Responsive shopping website built using HTML, CSS and JavaScript.
 
-**Tech Stack:** HTML • CSS • JavaScript
+**Tech Stack:** HTML • CSS • JavaScript <br>
 
 </td>
 
@@ -84,7 +84,7 @@ Responsive shopping website built using HTML, CSS and JavaScript.
 
 A productivity timer with a clean and responsive interface.
 
-**Tech Stack:** HTML • CSS • JavaScript
+**Tech Stack:** HTML • CSS • JavaScript <br>
 
 </td>
 
@@ -98,7 +98,7 @@ A productivity timer with a clean and responsive interface.
 
 Real-time weather application using OpenWeather API.
 
-**Tech Stack:** HTML • CSS • JavaScript
+**Tech Stack:** HTML • CSS • JavaScript<br>
 
 </td>
 
@@ -108,7 +108,7 @@ Real-time weather application using OpenWeather API.
 
 Arduino-based autonomous robot using IR sensors.
 
-**Tech Stack:** Arduino • C++
+**Tech Stack:** Arduino • C++<br>
 
 </td>
 
