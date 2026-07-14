@@ -1,17 +1,23 @@
 <p align="center">
   <img src="banner1.png" width="100%" alt="Shivam Kumar Banner"/>
 </p>
-# Hi 👋, I'm Shivam Kumar
+<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
+
+<h3 align="center">
+B.Tech Computer Science Student | Java Developer | DSA Enthusiast
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Enthusiast;Frontend+Developer;Open+Source+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Java+Developer;DSA+Enthusiast;Frontend+Developer;Always+Learning+New+Things" />
 </p>
-### 🎓 B.Tech Computer Science Student
 
-💻 Passionate about Java, Web Development, and Data Structures & Algorithms.
+<p align="center">
+💻 Passionate about Java, Web Development and Data Structures & Algorithms.
+</p>
 
-🌱 Currently learning **Java**, **DSA**, and **Full Stack Development**.
-
-🚀 My goal is to become a Software Engineer and build impactful projects.
+<p align="center">
+🚀 Building projects every week • 📚 Solving DSA • 🌱 Learning Full Stack Development
+</p>
 
 ---
 
