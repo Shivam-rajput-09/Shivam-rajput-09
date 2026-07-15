@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="banner1.png" width="100%" alt="Shivam Kumar Banner"/>
-</p>
+</p> -->
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 
 <h3 align="center">
