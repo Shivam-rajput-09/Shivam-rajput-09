@@ -62,24 +62,8 @@ B.Tech Computer Science Student | Java Developer | DSA Enthusiast
 
 ## 📊 GitHub Analytics
 
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shivam-rajput-09&show_icons=true&theme=github_dark&hide_border=true"/>
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shivam-rajput-09&layout=compact&theme=github_dark&hide_border=true"/>
-
-</td>
-</tr>
-</table>
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Shivam-rajput-09&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Shivam-rajput-09&theme=github-dark&hide_border=true"/>
 </p>
 
 ## 🚀 Featured Projects
