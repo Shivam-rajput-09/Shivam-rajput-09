@@ -61,8 +61,9 @@ B.Tech Computer Science Student | Java Developer | DSA Enthusiast
 </p>
 
 ## 📊 GitHub Analytics
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shivam-rajput-09&theme=nightowl&border_radius=4.7" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shivam-rajput-09&theme=nightowl&border_radius=4.7" alt="GitHub Streak"/>
+</p>
 
 
 ## 🚀 Featured Projects
