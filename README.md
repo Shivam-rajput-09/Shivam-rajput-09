@@ -34,7 +34,6 @@ B.Tech Computer Science Student | Java Developer | DSA Enthusiast
 - ☕ Java & Object-Oriented Programming
 - 📚 Data Structures & Algorithms
 - 🌐 Full Stack Web Development
-- ⚡ Git & GitHub
 - 🚀 Problem Solving on LeetCode
 
 ## 🛠️ Tech Stack
@@ -92,29 +91,6 @@ A productivity timer with a clean and responsive interface.
 
 </tr>
 
-<tr>
-
-<td>
-
-### 🌦️ Weather App
-
-Real-time weather application using OpenWeather API.
-
-**Tech Stack:** HTML • CSS • JavaScript<br>
-
-</td>
-
-<td>
-
-### 🤖 Line Follower Robot
-
-Arduino-based autonomous robot using IR sensors.
-
-**Tech Stack:** Arduino • C++<br>
-
-</td>
-
-</tr>
 
 </table>
 
