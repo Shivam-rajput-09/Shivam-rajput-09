@@ -1,6 +1,4 @@
-<!-- <p align="center">
-  <img src="banner1.png" width="100%" alt="Shivam Kumar Banner"/>
-</p> -->
+
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 
 <h3 align="center">
@@ -23,7 +21,6 @@ B.Tech Computer Science Student | Java Developer | DSA Enthusiast
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Student
-- 💻 Interested in Software Development
 - 🌱 Currently learning Java, DSA, and Web Development
 - 🚀 Building projects to improve my skills
 - 📫 Reach me at: **shivamkumar100406@gmail.com**
