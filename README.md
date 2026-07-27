@@ -10,13 +10,16 @@ B.Tech Computer Science Student | Java Developer | DSA Enthusiast
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="Coding Animation"/>
+</p>
+
+<p align="center">
 💻 Passionate about Java, Web Development and Data Structures & Algorithms.
 </p>
 
 <p align="center">
 🚀 Building projects every week • 📚 Solving DSA • 🌱 Learning Full Stack Development
 </p>
-
 
 ## 👨‍💻 About Me
 
