@@ -50,24 +50,12 @@ shivam@github:~$ whoami
 ------------------------------------------------
 
 shivam@github:~$ currently
-• Solving LeetCode every day
-• Building Full Stack Projects
-• Learning System Design
+• Solving LeetCode every day  <br>
+• Building Full Stack Projects<br>
+• Learning System Design<br>
 • Exploring Open Source
 
 ------------------------------------------------
-
-shivam@github:~$ skills
-
-Java
-C++
-JavaScript
-React
-Node.js
-MongoDB
-MySQL
-Git
-Docker
 
 ## ⚒️ Tech Stack
 <p align="center">
