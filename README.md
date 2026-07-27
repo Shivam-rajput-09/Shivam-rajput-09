@@ -1,26 +1,81 @@
+<!-- ========================================= -->
+<!--               HERO SECTION                -->
+<!-- ========================================= -->
 
-<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
+<p align="center">
+  <img src="assets/hacker-banner.svg" width="100%" alt="Shivam Hacker Banner">
+</p>
+
+<h1 align="center">
+Hi 👋, I'm Shivam Kumar
+</h1>
 
 <h3 align="center">
-B.Tech Computer Science Student | Java Developer | DSA Enthusiast
+Java Developer • Full Stack Learner • DSA Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Java+Developer;DSA+Enthusiast;Frontend+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+Cool+Projects;Solving+Data+Structures+%26+Algorithms;Learning+Full+Stack+Development;Open+Source+Enthusiast;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="Coding Animation"/>
+  <a href="mailto:shivamkumar100406@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/shivam-kumar-867967331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/shivcode4lyf/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Shivam-rajput-09">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-💻 Passionate about Java, Web Development and Data Structures & Algorithms.
+  <img src="https://komarev.com/ghpvc/?username=Shivam-rajput-09&style=for-the-badge&color=00ff41" />
 </p>
 
-<p align="center">
-🚀 Building projects every week • 📚 Solving DSA • 🌱 Learning Full Stack Development
-</p>
+---
 
+# 👨‍💻 About Me
+
+```java
+class Shivam {
+
+    String role = "B.Tech Computer Science Student";
+
+    String[] languages = {
+        "Java",
+        "C++",
+        "JavaScript"
+    };
+
+    String[] frontend = {
+        "HTML",
+        "CSS",
+        "React"
+    };
+
+    String[] backend = {
+        "Node.js",
+        "Express"
+    };
+
+    String[] databases = {
+        "MongoDB",
+        "MySQL"
+    };
+
+    String currentFocus =
+        "Data Structures & Algorithms + Full Stack Development";
+
+}
+```
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Student
