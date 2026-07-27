@@ -1,33 +1,84 @@
 <p align="center">
-  <img src="hacker-banner.svg" width="100%" alt="Hacker Banner">
+  <img src="profilebanner.png" width="100%" alt="Shivam Kumar Banner">
 </p>
 
-<h1 align="center">Hi 👋 I'm Shivam Kumar</h1>
+<h1 align="center">
+Hi 👋 I'm Shivam Kumar
+</h1>
 
 <h3 align="center">
-Java Developer • DSA Enthusiast • Full Stack Learner
+Java Developer • Full Stack Learner • DSA Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Java+Developer;Building+Awesome+Projects;Grinding+LeetCode;Learning+System+Design;Open+Source+Enthusiast"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Building+Cool+Projects;Grinding+LeetCode;Learning+System+Design;Open+Source+Enthusiast;Always+Learning+Something+New"/>
+
 </p>
-## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 🌱 Currently learning Java, DSA, and Web Development
-- 🚀 Building projects to improve my skills
-- 📫 Reach me at: **shivamkumar100406@gmail.com**
-  
+<p align="center">
 
-## 🌱 Currently Learning
+<a href="mailto:shivamkumar100406@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- ☕ Java & Object-Oriented Programming
-- 📚 Data Structures & Algorithms
-- 🌐 Full Stack Web Development
-- 🚀 Problem Solving on LeetCode
+<a href="https://www.linkedin.com/in/shivam-kumar-867967331/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🛠️ Tech Stack
+<a href="https://leetcode.com/u/shivcode4lyf/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
+<a href="https://github.com/Shivam-rajput-09">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+## 💻 About Me
+
+shivam@github:~$ whoami
+
+👨‍💻 Shivam Kumar
+
+🎓 B.Tech Computer Science Student
+
+☕ Java Developer
+
+📚 DSA Enthusiast
+
+🌐 Full Stack Learner
+
+🇮🇳 India
+
+------------------------------------------------
+
+shivam@github:~$ currently
+
+• Solving LeetCode every day
+
+• Building Full Stack Projects
+
+• Learning System Design
+
+• Exploring Open Source
+
+------------------------------------------------
+
+shivam@github:~$ skills
+
+Java
+C++
+JavaScript
+React
+Node.js
+MongoDB
+MySQL
+Git
+Docker
+
+## ⚒️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -50,56 +101,17 @@ Java Developer • DSA Enthusiast • Full Stack Learner
 </p>
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivam-rajput-09&theme=nightowl&border_radius=4.7" alt="GitHub Streak"/>
-</p>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivam-rajput-09&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🚀 Featured Projects
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-rajput-09&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 E-Commerce Website
-
-Responsive shopping website built using HTML, CSS and JavaScript.
-
-**Tech Stack:** HTML • CSS • JavaScript <br>
-
-</td>
-
-<td width="50%">
-
-### ⏱️ Pomodoro Timer
-
-A productivity timer with a clean and responsive interface.
-
-**Tech Stack:** HTML • CSS • JavaScript <br>
-
-</td>
-
-</tr>
-
-
-</table>
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="mailto:shivamkumar100406@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shivam-kumar-867967331/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/shivcode4lyf/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Shivam-rajput-09&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://streak-stats.demolab.com?user=Shivam-rajput-09&theme=tokyonight&hide_border=true"/>
+
 </p>
