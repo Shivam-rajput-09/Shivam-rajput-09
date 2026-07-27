@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hacker-banner.svg" width="100%" alt="Hacker Banner">
+  <img src="hacker-banner.svg" width="100%" alt="Hacker Banner">
 </p>
 
 <h1 align="center">Hi 👋 I'm Shivam Kumar</h1>
