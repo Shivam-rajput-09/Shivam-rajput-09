@@ -38,18 +38,16 @@ Java Developer • Full Stack Learner • DSA Enthusiast
 
 ## 💻 About Me
 
-shivam@github:~$ whoami
 👨‍💻 Shivam Kumar
 🎓 B.Tech Computer Science Student
 ☕ Java Developer
 📚 DSA Enthusiast
 🌐 Full Stack Learner
 
-🇮🇳 India
 
 ------------------------------------------------
+## Currently Learning
 
-shivam@github:~$ currently
 • Solving LeetCode every day  <br>
 • Building Full Stack Projects<br>
 • Learning System Design<br>
